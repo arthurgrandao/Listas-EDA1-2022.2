@@ -57,7 +57,7 @@ int main(void) {
         if (comando == 'j') 
         {
             if (linha < linhas-1) 
-            linha++;
+                linha++;
 
             if (coluna >= size[linha]) 
                 printf("%d %d %c\n", linha+1, size[linha], m2[linha][size[linha]-1]);
