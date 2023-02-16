@@ -4,4 +4,6 @@
 * Professor: Bruno César Ribas.
 * 4° semestre de Engenharia de Software.
 
-Resoluções de exercícios utilizando a linguagem C
+Resoluções de exercícios das Listas 1-12 & Trabalho, utilizando a linguagem C.
+
+O trabalho final foi feito em dupla com [Douglas Alves dos Santos](https://github.com/dougAlvs)
