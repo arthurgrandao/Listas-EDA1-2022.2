@@ -1,3 +1,12 @@
+/*
+ *  Implemente uma versão modificada do MergeSort em que ele considere os números ímpares sempre maiores que os números pares.
+ *  
+ *  Dessa maneira o vetor, sem ordenação, abaixo:
+ *  30 44 1 93 44 77
+ *  Ficaria ordenado da seguinte maneira:
+ *  30 44 44 1 77 93
+ */
+
 #include <stdio.h>
 
 typedef int Item;
