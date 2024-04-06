@@ -7,11 +7,11 @@ void somal(int *vetor, int *fim, int soma,  int limite)
         soma += vetor[0];
         if (soma > limite)
         {
-            somal(vetor+1, 0, fim, limite);
+            somal(vetor+1, fim, 0, limite);
             printf("%d\n", vetor[0]);
         }
         else
-            somal(vetor+1, soma, fim, limite);
+            somal(vetor+1, fim, soma, limite);
     }
     else
         return;
